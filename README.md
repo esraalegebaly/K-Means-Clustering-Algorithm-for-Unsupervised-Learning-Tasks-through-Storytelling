@@ -1,6 +1,6 @@
 🧩 K-Means Clustering Algorithm for Unsupervised Learning Tasks through Storytelling
 📖 Overview
-Why not let the data tell its own story? This project explores K-Means clustering, an unsupervised machine learning algorithm, in a creative storytelling format. The task involves clustering universities into two categories—Private and Public—without using their actual labels during clustering. The goal is to demonstrate how K-Means identifies hidden patterns in data and analyze how closely the clusters align with reality when compared to the true labels.
+Why not let the data tell its own story? This project explores K-https://github.com/esraalegebaly/K-Means-Clustering-Algorithm-for-Unsupervised-Learning-Tasks-through-StorytellingMeans clustering, an unsupervised machine learning algorithm, in a creative storytelling format. The task involves clustering universities into two categories—Private and Public—without using their actual labels during clustering. The goal is to demonstrate how K-Means identifies hidden patterns in data and analyze how closely the clusters align with reality when compared to the true labels.
 In addition to applying clustering, this project emphasizes learning through creativity, blending technical concepts with storytelling to enhance understanding. 🌟
 
 🔍 Method
@@ -43,3 +43,6 @@ This project was crafted as part of my learning journey in machine learning and 
 🔗 Project Link
 Explore the full project on GitHub: K-Means Clustering Algorithm through Storytelling.
 
+Thanks to Mr.Fares Sayah
+References:
+K-Means Clustering Algorithm for Unsupervised Learning Tasks https://medium.com/@sayahfares19/k-means-clustering-algorithm-for-unsupervised-learning-tasks-f761ed7f37c0
